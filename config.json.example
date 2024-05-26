@@ -1,0 +1,49 @@
+{
+    "TOKEN": "",
+    "GUILD_ID": "",
+    "CLIENT_ID": "",
+
+    "COMPONENTS": [
+        {
+            "Custom_ID": "",
+            "Role_ID": "",
+            "Label": ""
+        },
+        {
+            "Custom_ID": "",
+            "Role_ID": "",
+            "Label": ""
+        }
+    ],
+    "MESSAGE_ID": "",
+
+    "COMMAND_CHANNEL_ID": "",
+    
+    "WELCOME_CHANNEL_ID": "",
+    "LEAVE_CHANNEL_ID": "",
+    "CONSOLE_CHANNEL_ID": "",
+
+    "ROLES_CHANNEL_ID": "",
+    "NEW_MEMBER_ROLE_ID": "",
+
+    "WEATHER_API": "",
+    "EARTHQUAKE_CHANNEL_ID": "",
+    "WAIT_TIME": "1",
+
+    "LOCAL_MESSAGES": [
+        {
+            "Custom_ID": "a",
+            "Message": "aaaaa",
+            "Label": "localA"
+        },
+        {
+            "Custom_ID": "b",
+            "Message": "bbbbbbbbb",
+            "Label": "localB"
+        }
+    ],
+    "LOCAL_MESSAGE_CHANNEL_ID": "",
+    "LOCAL_MESSAGE_ID": ""
+
+    "HOST_API": ""
+}
