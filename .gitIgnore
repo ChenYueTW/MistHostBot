@@ -1,0 +1,3 @@
+# Inside .gitignore
+node_modules/
+config.json
