@@ -19,7 +19,7 @@ class serverInfo {
         const embed = new EmbedBuilder()
             .setTitle(interaction.guild.name)
             .setThumbnail(interaction.guild.iconURL())
-            .setFooter({ text: `GuGa System` })
+            .setFooter({ text: `MistHost．託管服務` })
             .setColor('#00ffff')
             .addFields(
                 { name: `擁有者ID`, value: `${interaction.guild.ownerId}`, inline: true },

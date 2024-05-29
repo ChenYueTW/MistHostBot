@@ -45,7 +45,7 @@ class earthquake {
                     .setDescription(`${content}`)
                     .setImage(`${earthquakeData.ReportImageURI}`)
                     .setColor(color[0][`${earthquakeData.ReportColor}`])
-                    .setFooter({ text: 'GuGa System' })
+                    .setFooter({ text: 'MistHost．託管服務' })
                     .addFields(
                         { name: `地震編號`, value: `${earthquakeData.EarthquakeNo}`, inline: true },
                         { name: `發生時間`, value: `**${data}**\n\`${time}\``, inline: true },

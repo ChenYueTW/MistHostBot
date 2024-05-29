@@ -43,7 +43,7 @@ client.once('ready', () => {
     global.minutes = WAIT_TIME;
     readySystem.handleReady();
     localMessageSystem.createButton();
-    client.user.setActivity('GuGa System !');
+    client.user.setActivity('MistHost．託管服務 !');
     client.user.setPresence({
         status: 'online'
     });
