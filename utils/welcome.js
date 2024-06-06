@@ -15,7 +15,7 @@ class WelcomeFunction {
                     name: '加入訊息！'
                 })
                 .setColor(0x00ffff)
-                .setDescription(`歡迎 <@${member.user.id}> 來到了 **${member.guild.name}**\n請先閱讀<#1231428929491832944>\n可到<#1230004319940640868>領取身分組~`)
+                .setDescription(`歡迎 <@${member.user.id}> 來到了 **${member.guild.name}**\n請先閱讀<#1190955970411638794>\n可到<#1190956152293433476>領取身分組~`)
                 .setFooter({
                     text: 'MistHost．託管服務'
                 });
